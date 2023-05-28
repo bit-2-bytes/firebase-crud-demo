@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.99c5ea3c.css",
+    "main.js": "/react-gh-pages/static/js/main.46ea8d17.js",
+    "static/media/primeicons.svg": "/react-gh-pages/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/react-gh-pages/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/react-gh-pages/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/react-gh-pages/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/react-gh-pages/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/react-gh-pages/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.99c5ea3c.css.map": "/react-gh-pages/static/css/main.99c5ea3c.css.map",
+    "main.46ea8d17.js.map": "/react-gh-pages/static/js/main.46ea8d17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99c5ea3c.css",
+    "static/js/main.46ea8d17.js"
+  ]
+}
